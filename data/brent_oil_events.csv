@@ -1,0 +1,17 @@
+event_id,date,event_name,category,description,expected_price_direction
+1,1990-08-02,Iraqi invasion of Kuwait,Conflict,"Iraq invades Kuwait, triggering the Gulf War and fears of a major supply disruption from the region.",Increase
+2,1997-07-02,Asian Financial Crisis onset,Economic Shock,"Currency collapse in Thailand spreads across East Asia, sharply reducing regional oil demand expectations.",Decrease
+3,1998-12-01,OPEC production dispute and price collapse,OPEC Policy,"OPEC members fail to agree on effective output cuts amid oversupply, pushing Brent to historic lows (~$10/barrel in Dec 1998).",Decrease
+4,2001-09-11,September 11 attacks,Geopolitical/Conflict,"Terrorist attacks in the US trigger a global demand shock and risk aversion, with short-term price volatility.",Decrease
+5,2003-03-20,US-led invasion of Iraq,Conflict,"Invasion of Iraq raises concerns over supply disruption from a major OPEC producer.",Increase
+6,2008-07-11,Brent oil price peak (~$146/barrel),Economic/Market,"Prices peak amid strong global demand and speculative activity just before the global financial crisis.",Increase
+7,2008-09-15,Global Financial Crisis (Lehman collapse),Economic Shock,"Collapse of Lehman Brothers triggers a global recession, collapsing oil demand and prices within months.",Decrease
+8,2011-02-17,Libyan Civil War / Arab Spring disruption,Conflict,"Civil war in Libya removes significant OPEC light-sweet crude supply from the market, tightening global supply.",Increase
+9,2014-06-01,US shale oil supply surge,Market/Supply,"Rapid growth in US shale production adds substantial new global supply, pressuring prices downward through 2014.",Decrease
+10,2014-11-27,OPEC decision not to cut production,OPEC Policy,"OPEC opts to maintain output despite falling prices, accelerating the 2014-2016 price collapse (Brent falls below $30 by Jan 2016).",Decrease
+11,2016-11-30,OPEC+ agreement on coordinated production cuts,OPEC Policy,"OPEC and non-OPEC producers (led by Russia) agree to the first coordinated output cuts since 2008, supporting a price recovery.",Increase
+12,2018-05-08,US withdrawal from Iran nuclear deal / renewed sanctions,Sanctions,"US reimposes sanctions on Iranian oil exports, removing supply from the market and lifting prices.",Increase
+13,2019-09-14,Attack on Saudi Aramco Abqaiq facility,Conflict,"Drone/missile strikes temporarily knock out roughly half of Saudi Arabia's oil production capacity.",Increase
+14,2020-03-08,Saudi-Russia oil price war,OPEC Policy,"OPEC+ talks collapse; Saudi Arabia launches a price war and floods the market with supply just as COVID-19 demand collapses.",Decrease
+15,2020-04-12,OPEC+ record production cut agreement (COVID-19 response),OPEC Policy,"OPEC+ agrees to historic ~9.7 million bpd output cuts to stabilize prices amid pandemic-driven demand collapse.",Increase
+16,2022-02-24,Russian invasion of Ukraine,Conflict/Sanctions,"Russia's invasion of Ukraine triggers Western sanctions on Russian energy exports and major supply-security fears.",Increase
